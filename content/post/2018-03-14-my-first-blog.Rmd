@@ -1,0 +1,11 @@
+---
+title: My first blog
+author: Erin Meyer-Gutbrod
+date: '2018-03-14'
+slug: my-first-blog
+categories:
+  - demo
+tags: []
+---
+
+This is my blog. Awesome.
